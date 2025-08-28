@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "trusted-open-ai",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "trusted-template-db",
+      "database_id": "445915e0-e832-4351-aee4-bc510507e5ec"
+    }
+  ]
+}
